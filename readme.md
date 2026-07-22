@@ -6,7 +6,6 @@ Built as a portfolio project demonstrating **agent orchestration**, **self-refle
 
 ## Live Demo Results
 
-The following examples show **actual outputs** from running the agent with real LLM inference (July 2026).
 
 ### Example 1: Budget Approval Request (2 iterations)
 
